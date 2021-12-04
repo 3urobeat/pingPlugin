@@ -1,0 +1,11 @@
+name: pingPlugin
+version: 1.0
+author: 3urobeat
+main: org.herreurobeat.pingPlugin.Main
+description: Tells you your ping in ms to the server
+
+commands:
+  ping:
+    description: See your ping in ms to the server
+  pinginfo:
+    description: What's this? (Help)
