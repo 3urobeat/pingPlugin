@@ -15,7 +15,7 @@ import java.lang.reflect.Method;
 public class Main extends JavaPlugin {
 
     String supportedVersion = "1.16 - 1.18";
-    String pluginVersion = "1.1";
+    String pluginVersion = "1.2";
 
     int serverVersion;
 
