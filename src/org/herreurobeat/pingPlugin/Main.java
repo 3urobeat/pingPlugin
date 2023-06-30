@@ -1,4 +1,4 @@
-package org.herreurobeat.pingPlugin;
+package org.3urobeat.pingPlugin;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -61,7 +61,7 @@ public class Main extends JavaPlugin {
             if (!p.getWorld().getGameRuleValue(GameRule.SEND_COMMAND_FEEDBACK))
                 return; //check gamerule and stop if send command feedback is false
         }
-        sender.sendMessage("pingPlugin by 3urobeat v" + pluginVersion + " \n----\nType /ping to see your ping in ms to the server.\n----\nhttps://github.com/HerrEurobeat/pingPlugin");
+        sender.sendMessage("pingPlugin by 3urobeat v" + pluginVersion + " \n----\nType /ping to see your ping in ms to the server.\n----\nhttps://github.com/3urobeat/pingPlugin");
     }
 
 
