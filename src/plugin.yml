@@ -1,7 +1,7 @@
 name: pingPlugin
 version: 1.2
 author: 3urobeat
-main: org.3urobeat.pingPlugin.Main
+main: org.x3urobeat.pingPlugin.Main
 description: Tells you your or the ping of another player in ms to the server
 
 commands:

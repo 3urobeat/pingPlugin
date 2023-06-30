@@ -1,4 +1,4 @@
-package org.3urobeat.pingPlugin;
+package org.x3urobeat.pingPlugin;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -14,7 +14,7 @@ import java.lang.reflect.Method;
 
 public class Main extends JavaPlugin {
 
-    String supportedVersion = "1.16 - 1.19";
+    String supportedVersion = "1.16 - 1.20";
     String pluginVersion = "1.2";
 
     int serverVersion;
